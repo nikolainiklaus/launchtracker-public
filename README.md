@@ -1,4 +1,4 @@
-# Launchtracker.co :rocket:
+# Launchtracker.co
 
 A tool to discover and track high growing startups before they take off. 
 
@@ -35,7 +35,7 @@ A tool to discover and track high growing startups before they take off.
 
 ### V2
 
-- Create scraping scripts, that automatically scrape identified sources (e.g. ProdutHunt etc.) on a daily basis for newly launched companies
+- Create scraping scripts, that automatically scrape target sources on a daily basis for newly launched companies
 - Automatically funnel scraped companies through SimilarWeb API to retrieve traffic information
 - User Auth, Protected Routes via Access & Refresh Token (via Cookies)
 - Set up transactional Emails (via SendGrid) for Password reset etc.
